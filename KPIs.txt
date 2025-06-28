@@ -1,0 +1,12 @@
+KEY PERFORMANCE INDICATOR (KPIs - Measures)
+	1. Total Sales
+	2. Total Boxes
+	3. Total Shipments
+	4. Total Cost
+	5. Total Profit
+	6. % profit
+	7. Low box shipments - Where boxes are less than 50.(Chocolate samples)
+			- Count
+			- % Percentage of the LBS 
+	8. Month on Month changes
+	9. Year on Year changes - It can't be done since there's no yearly data.
