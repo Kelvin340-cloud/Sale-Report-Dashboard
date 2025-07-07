@@ -16,15 +16,17 @@ Developed a Power BI sales analytics report for a chocolate company, featuring d
       
       - 📈 Trend Visualization: Monthly KPI trends were effectively displayed using a line chart, enhancing temporal insights.
 
-## Screenshot Showing the Sales person with the highest sales
+## Top Salesperson by Revenue
+Screenshot showing the highest-performing salesperson
 
 ![image](https://github.com/user-attachments/assets/4a8a2f8e-e3cf-4483-bc7c-b9e98d4fed15)
 
-## Screenshot Showing Product Sales
+##  Top Products by Sales
+Screenshot displaying product-level sales insights
 
 ![image](https://github.com/user-attachments/assets/86c03f60-4d47-405e-8ef5-ec848704ea2c)
 
 ## 🛠️ Tooltip 
-I incorporated a tooltip to highlight the percentage breakdown of key performance indicators (KPIs) across different geographical locations, enabling users to quickly compare regional contributions at a glance.
+To enhance user experience and deepen insight, I incorporated custom tooltips that display the percentage breakdown of KPIs across different geographical locations. This allows users to quickly compare regional contributions when hovering over visuals.
 
 ![image](https://github.com/user-attachments/assets/f4ffb999-7a8e-4fda-9078-91c64092423e)
